@@ -1,0 +1,162 @@
+SIZE: 9216, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  9216
+
+real	1m18.008s
+user	4m4.253s
+sys	1m4.041s
+SIZE: 9216, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  9216
+
+real	4m13.313s
+user	11m24.134s
+sys	5m26.822s
+SIZE: 9216, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  9216
+
+real	12m4.935s
+user	28m36.334s
+sys	19m39.609s
+SIZE: 9216, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  9216
+
+real	25m33.126s
+user	57m6.951s
+sys	45m1.678s
+SIZE: 9216, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  9216
+
+real	51m50.524s
+user	111m28.441s
+sys	95m49.138s
+SIZE: 9216, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  9216
+
+real	103m57.030s
+user	214m47.340s
+sys	200m51.475s
+SIZE: 18432, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  18432
+
+real	5m17.363s
+user	16m49.253s
+sys	4m16.678s
+SIZE: 18432, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  18432
+
+real	19m28.869s
+user	51m18.789s
+sys	26m32.938s
+SIZE: 18432, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  18432
+
+real	500m46.315s
+user	0m0.175s
+sys	0m0.617s
+SIZE: 18432, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  18432
+
+real	0m3.434s
+user	0m0.027s
+sys	0m0.052s
+SIZE: 18432, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  18432
+
+real	0m0.450s
+user	0m0.038s
+sys	0m0.065s
+SIZE: 18432, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  18432
+
+real	0m0.170s
+user	0m0.025s
+sys	0m0.074s
+SIZE: 36864, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.165s
+user	0m0.013s
+sys	0m0.034s
+SIZE: 36864, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.184s
+user	0m0.017s
+sys	0m0.030s
+SIZE: 36864, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.888s
+user	0m0.012s
+sys	0m0.041s
+SIZE: 36864, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.176s
+user	0m0.012s
+sys	0m0.045s
+SIZE: 36864, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.159s
+user	0m0.017s
+sys	0m0.030s
+SIZE: 36864, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.151s
+user	0m0.012s
+sys	0m0.034s
+SIZE: 73728, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.161s
+user	0m0.012s
+sys	0m0.035s
+SIZE: 73728, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.147s
+user	0m0.011s
+sys	0m0.036s
+SIZE: 73728, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.137s
+user	0m0.014s
+sys	0m0.027s
+SIZE: 73728, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.146s
+user	0m0.018s
+sys	0m0.027s
+SIZE: 73728, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.182s
+user	0m0.010s
+sys	0m0.036s
+SIZE: 73728, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.241s
+user	0m0.015s
+sys	0m0.036s
+SIZE: 147456, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  147456
+
+real	0m0.212s
+user	0m0.020s
+sys	0m0.081s
+SIZE: 147456, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  147456
+
+real	0m0.115s
+user	0m0.018s
+sys	0m0.031s
+SIZE: 147456, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  147456
+
+real	0m0.141s
+user	0m0.005s
+sys	0m0.042s

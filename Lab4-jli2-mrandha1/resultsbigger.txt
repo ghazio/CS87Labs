@@ -1,0 +1,349 @@
+SIZE: 9216, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  9216
+
+real	1m18.008s
+user	4m4.253s
+sys	1m4.041s
+SIZE: 9216, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  9216
+
+real	4m13.313s
+user	11m24.134s
+sys	5m26.822s
+SIZE: 9216, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  9216
+
+real	12m4.935s
+user	28m36.334s
+sys	19m39.609s
+SIZE: 9216, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  9216
+
+real	25m33.126s
+user	57m6.951s
+sys	45m1.678s
+SIZE: 9216, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  9216
+
+real	51m50.524s
+user	111m28.441s
+sys	95m49.138s
+SIZE: 9216, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  9216
+
+real	103m57.030s
+user	214m47.340s
+sys	200m51.475s
+SIZE: 18432, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  18432
+
+real	5m17.363s
+user	16m49.253s
+sys	4m16.678s
+SIZE: 18432, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  18432
+
+real	19m28.869s
+user	51m18.789s
+sys	26m32.938s
+SIZE: 18432, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  18432
+
+real	500m46.315s
+user	0m0.175s
+sys	0m0.617s
+SIZE: 18432, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  18432
+
+real	0m3.434s
+user	0m0.027s
+sys	0m0.052s
+SIZE: 18432, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  18432
+
+real	0m0.450s
+user	0m0.038s
+sys	0m0.065s
+SIZE: 18432, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  18432
+
+real	0m0.170s
+user	0m0.025s
+sys	0m0.074s
+SIZE: 36864, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.165s
+user	0m0.013s
+sys	0m0.034s
+SIZE: 36864, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.184s
+user	0m0.017s
+sys	0m0.030s
+SIZE: 36864, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.888s
+user	0m0.012s
+sys	0m0.041s
+SIZE: 36864, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.176s
+user	0m0.012s
+sys	0m0.045s
+SIZE: 36864, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.159s
+user	0m0.017s
+sys	0m0.030s
+SIZE: 36864, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  36864
+
+real	0m0.151s
+user	0m0.012s
+sys	0m0.034s
+SIZE: 73728, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.161s
+user	0m0.012s
+sys	0m0.035s
+SIZE: 73728, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.147s
+user	0m0.011s
+sys	0m0.036s
+SIZE: 73728, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.137s
+user	0m0.014s
+sys	0m0.027s
+SIZE: 73728, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.146s
+user	0m0.018s
+sys	0m0.027s
+SIZE: 73728, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.182s
+user	0m0.010s
+sys	0m0.036s
+SIZE: 73728, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  73728
+
+real	0m0.241s
+user	0m0.015s
+sys	0m0.036s
+SIZE: 147456, num_procs: 8
+time mpirun -np 8 --hostfile hostfile ./oddevensort  147456
+
+real	0m0.212s
+user	0m0.020s
+sys	0m0.081s
+SIZE: 147456, num_procs: 16
+time mpirun -np 16 --hostfile hostfile ./oddevensort  147456
+
+real	0m0.115s
+user	0m0.018s
+sys	0m0.031s
+SIZE: 147456, num_procs: 32
+time mpirun -np 32 --hostfile hostfile ./oddevensort  147456
+
+real	0m0.141s
+user	0m0.005s
+sys	0m0.042s
+
+//system cutoff here, need to resume runs from here
+
+SIZE: 147456, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  147456
+using hostfile hostfile
+SIZE: 147456, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  147456
+ssh: connect to host milk port 22: No route to host
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+
+real	0m3.301s
+user	0m0.150s
+sys	0m0.097s
+SIZE: 147456, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  147456
+ssh: connect to host milk port 22: No route to host
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+
+real	0m3.068s
+user	0m0.515s
+sys	0m0.227s
+SIZE: 147456, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  147456
+ssh: connect to host milk port 22: No route to host
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+
+real	0m3.063s
+user	0m0.112s
+sys	0m0.086s
+using hostfile hostfile
+SIZE: 147456, num_procs: 64
+time mpirun -np 64 --hostfile hostfile ./oddevensort  147456
+ssh: connect to host milk port 22: No route to host
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+
+real	0m3.187s
+user	0m0.096s
+sys	0m0.084s
+SIZE: 147456, num_procs: 128
+time mpirun -np 128 --hostfile hostfile ./oddevensort  147456
+ssh: connect to host milk port 22: No route to host
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+
+real	0m3.071s
+user	0m0.106s
+sys	0m0.083s
+SIZE: 147456, num_procs: 256
+time mpirun -np 256 --hostfile hostfile ./oddevensort  147456
+ssh: connect to host milk port 22: No route to host
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+
+real	0m3.064s
+user	0m0.111s
+sys	0m0.087s

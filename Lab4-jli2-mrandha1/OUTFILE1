@@ -1,0 +1,77 @@
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 512 slots
+that were requested by the application:
+  ./oddevensort
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
+
+real	0m0.375s
+user	0m0.127s
+sys	0m0.094s
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile make
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfileHUGE6slots
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile
+using hostfile hostfile

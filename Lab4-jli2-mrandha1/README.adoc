@@ -1,0 +1,29 @@
+=  Lab 4 starting point
+
+* `Makefile`: builds oddevensort and questions.pdf  
+
+* `oddevensort.c`:  starting point for your solution
+
+* `hostfile, hostfilebig`, ...: some exaple hostfiles you can use for running
+
+* `check_up.sh`: script to check if hosts in a hostfile are reachable
+  (remove any that are not).  To run: `./check_up.sh hostfilename`
+
+* `run.sh`: an example run script to test different sizes (you will likely want to 
+          write your own; this is just one example.  To run: `./run.sh`
++
+`runbigger.sh` is another example with some sizes that are a little larger
+than run.sh (which are all very small).  The size values here are still
+not that huge, but the number of process is much bigger.
+
+* `questions.tex`: latex starting point file into which to add your
+  complexity answers.  Make builds questions.pdf from this.
+
+* `RESULTS`:
+  file into which you should copy your (edited) results from different
+  size runs on our system.  You may be able to scale to runs on about 
+  128 hosts on our system.  However, see my notes about the check_up.sh 
+  and autoMPIgen on the assignment page. And see my notes about being
+  mindful of not overloading CS lab machines during class, lab, ninja
+  sessions.
+
