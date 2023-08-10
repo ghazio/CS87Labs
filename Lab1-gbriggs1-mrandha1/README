@@ -1,0 +1,46 @@
+Some example bash script for running experiments
+
+  * run.sh:  example bash script for running a bunch of experiments
+             with different input parameters.  To run:
+
+             ./run.sh
+
+  * run_outfile.sh:  example bash script for running a bunch of 
+                     experiments with different parameters and
+                     capturing all output to a file.  To run:
+
+                     ./run_outfile.sh  myoutputfile
+
+ * killmytests.sh: an example script that to kill all your experiments: 
+ 
+   (1) first pkill -9 the run script (run_outfile.sh in this example) 
+   (2) then pkill -9  your program executable (matrixmult in this example)
+
+    This script is very useful if you want to stop your experiments 
+    from running in the middle of the night when you are asleep.
+    You can also start your experiments running in the middle of the
+    night when you are alseep.  To do this you want to use cron, which
+    is a job scheduler that uses a time to run a particular job.
+    
+ You can add a cron job to run your script at a particular date and
+ time by editing the crontab file on the machine you are running your
+ experiments (ex. on chervil):
+
+  $ ssh chervil
+
+  $ crontab -e
+
+  Then add a line like this to run the killmytests.sh script at 
+  a specific time and date (at 8pm (20:00), on January (1) 31 : 
+                   
+  0 20 31 1 * /home/newhall/public/cs87/experiment_tools/killmytests.sh  
+
+  Similarly you can add a cron job to run your experiements at a specific
+  time (here I'm starting them at 4:05 am on February 3):
+
+  5 4 3 2 * /home/newhall/public/cs87/experiment_tools/run_outfile.sh ./mytests  
+
+Links to tools for running experiments (screen, script, bashscript)
+https://www.cs.swarthmore.edu/~newhall/unixlinks.html#exper
+
+

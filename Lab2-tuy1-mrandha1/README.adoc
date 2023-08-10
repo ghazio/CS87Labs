@@ -1,0 +1,18 @@
+= Lab 2 starting point
+
+* client.c: starting point for client-side
+* server.c: starting point for server-side
+* cs87talk.[c,h]:  starting point for common messaging functions used
+                  by both client and server, and shared definitions
+                  (functions that send and receive messages should be
+                  defined here, and called from client and server code)
+* Makefile:
+   ** make: builds cs87_client and cs87_server executables
++
+note that currently there are some unused variable warnings for variables
+I've defined for you that you will want to use in your code, or that are
+used in some of the example code commented out in the .c files.
+
+   ** make clean : removes all compiler built files
+
+

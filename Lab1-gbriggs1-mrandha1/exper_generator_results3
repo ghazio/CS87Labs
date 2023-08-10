@@ -1,0 +1,27 @@
+Experiment 3
+***START*******
+Row wise Parti/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 37.640 seconds.
+
+real	0m38.109s
+user	17m48.671s
+sys	0m0.464s
+Gone thy killing the tests
+
+
+Coloumn wise Parti/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 500 -c
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 37.647 seconds.
+
+real	0m38.033s
+user	17m49.862s
+sys	0m0.516s
+Gone thy killing the tests
+***STOP********

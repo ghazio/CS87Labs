@@ -1,0 +1,115 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage{subfigure,indentfirst}
+% for url
+\usepackage{hyperref}
+% for underlined text
+\usepackage[normalem]{ulem}
+% a package for importing pdf figures, there are other graphics
+% packages you can use for different file types, but sadly they
+% are not all compatible, so you often have to convert figures 
+% from one type to another to use a particular package
+\usepackage{graphicx}
+
+% this starts the document
+\begin{document}
+
+\title{CS87:F21 Lab 1 Report}
+
+\author{Student1, Student2 }
+
+\maketitle
+
+% the structure of your report should be
+\section {Introduction}   
+
+\section {Experiement Descriptions}
+
+\subsection{Here is how to create a subsection if you want}
+
+\section {Results}
+
+\section {Conclusions}
+
+%% example latex formatting for figures, lists, tables, math, verbatim
+% (in /home/newhall/public/latex_examples/report/ are more examples)
+% Uncomment (remove leading %) and run make report to try them out
+% and cut and paste as starting points in your report
+
+%% -----
+%% figure: including a .pdf figure
+%% -----
+\begin{figure}[t]
+\centerline{\includegraphics[height=3.0in]{/home/newhall/public/latex_examples/report/ERbook.pdf}}
+\caption{ {\label{bookER} Figures should have a caption that 
+    briefly describe what the figure is/shows.  
+}}
+\end{figure}
+
+%You can refer to a figure in prose by adding a label to the figure,
+%and the ref'in it, like this: Figure~\ref{bookER}.  
+
+%% -----
+%% lists:  enumerate or itemize
+%% -----
+% \begin{enumerate}
+% \item first item in list
+% \item next item ...
+% \end{enumerate}
+
+
+%% -----
+%% table: with caption
+%% -----
+%\begin{table}
+%\begin{center}
+%\begin{tabular}{|l||r l|c|}
+%\hline
+%  {\bf Benchmark} & {\bf Size} & {\bf Num} & {\bf Time (secs)} \\
+%\hline
+%  Radix &  2024  &  32  &  255.5 \\
+%  HPL   &  2024  &  32  &  815.7 \\
+%\hline
+%\end{tabular}
+%\caption{\label{results1} A 1-2 sentece high-level summary of this table: 
+%  what it is and what main result it shows.  ex: "Radix and HPL Scalability".
+%  Radix scales better with problem size"
+%  {\em optional details about interpreting fields ex: "For each benchmark, 
+%  the total run time (in seconds) when run using Nswap2L with prefetching 
+%  enabled."  
+%    } }
+%\end{center}
+%\end{table}
+
+%% Notes:
+%% The first part of a tabular definition {\tt e.g. |c|l|r|rr|} 
+%% specifies the number of columns, the text alignment in each column,
+%% (c:centered, l:left, r:right), and (|) any vertical bars between columns.
+%% Each row of values is listed on a separate line 
+%% Ampersands are used between each column's value.
+%% \\ ends a row.   
+%% \hline can be used to draw horizontal lines.  
+
+%% -----
+%% verbatim for code sequences:
+%% -----
+\begin{verbatim} 
+for(j=0; j < M; j++) {
+  C[i][j] = A[i][j] + B[i][j];
+}
+\end{verbatim}
+
+%% -----
+%% math mode
+%% -----
+% blocks \begin{math}   \end{math}
+% inline: $ <interpreted in math mode> $ 
+% ex:
+%\begin{math}
+%\forall x \in X, \quad \exists y \leq \epsilon 
+%\end{math}
+% For example, $x_{i} = y^{3} + 2x_{i-1}$, is an inlined math form.
+
+
+\end{document}
+

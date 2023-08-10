@@ -1,0 +1,55 @@
+= Starting point for Lab 1 CS87 F21
+
+You need to copy over one of you or your partner's CS31 pthreads gol.c 
+file as a starting point for this lab.
+
+Here are the other files in your repo:
+
+== Makefile: 
+
+  * `make`: compile gol
+  * `make report`: compile a .pdf version of your report.tex document
+  * `make clean`: clean up built stuff
+
+  * See the CFLAGS definition in `Makefile` and uncomment out the one 
+    you want to use, either:
+      ** debugging and correctness testing build (-g) 
+      ** optimized build (-O2) for running experiments
++
+**NOTE**: when rebuilding with diferent cflags, to a `make clean` first
+
+== testedges.txt:  
+
+    * an example input file you can use to test if you have correctly
+      un-torus-ified your GOL world (patterns should not wrap around)
+
+== run.sh:
+   * an example of a bash file for running a set of experiments
+   * you will want to create your own and vary all kinds of parameters,
+     but it gives you a simple example of a bash script with loops 
+     (see my help pages for other examples and links to bash scripting)
+   * to run:
+[source,sh]
+----
+     (1) run.sh needs to have executble permission to run it:
+         ls -l  run.sh           # list file permissions
+            -rwx------  run.sh   # x means it is executable
+         chmod  700 run.sh       # to set read, write and execute permission
+      (2) then run the script like any executable file:
+          ./run.sh                # run the script
+----
+
+== report.tex:  
+   * latex template for your report 
+   * make report  : will compile .pdf from your .tex
+   * it contains the main sections that should be in your report
+   * it contains commented out (%) examples of latex formatting for
+      ** tables
+      ** lists
+      ** importing .pdf figures
+      ** referencing tables and figures in prose
+      ** math and verbatim mode (you likely won't need to use these)
+      uncomment to try out to see how they work and cut and paste as 
+      starting point for similar structure in your report
+    * a more verbose example of these features is available here: 
+       `~newhall/public/latex_examples/report/`

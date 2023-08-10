@@ -1,0 +1,342 @@
+Experiment 1
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 4 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 151.365 seconds.
+
+real	2m31.668s
+user	10m4.306s
+sys	0m0.360s
+I have killed all the children and hid their bodies :P
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 8 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 76.012 seconds.
+
+real	1m16.311s
+user	10m6.168s
+sys	0m0.328s
+I have killed all the children and hid their bodies :P
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 16 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 41.645 seconds.
+
+real	0m41.941s
+user	10m42.311s
+sys	0m0.696s
+I have killed all the children and hid their bodies :P
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 32 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 35.653 seconds.
+
+real	0m35.950s
+user	18m27.797s
+sys	0m1.824s
+I have killed all the children and hid their bodies :P
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 64 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 40.487 seconds.
+
+real	0m40.784s
+user	18m22.854s
+sys	0m1.197s
+I have killed all the children and hid their bodies :P
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 128 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 39.206 seconds.
+
+real	0m39.503s
+user	18m44.170s
+sys	0m1.355s
+I have killed all the children and hid their bodies :P
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 256 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 38.795 seconds.
+
+real	0m39.091s
+user	19m22.203s
+sys	0m1.913s
+I have killed all the children and hid their bodies :P
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 512 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 40.025 seconds.
+
+real	0m40.327s
+user	20m32.997s
+sys	0m3.165s
+I have killed all the children and hid their bodies :P
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 1024 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 43.491 seconds.
+
+real	0m43.789s
+user	22m31.536s
+sys	0m5.243s
+I have killed all the children and hid their bodies :P
+***STOP********
+
+xperiment 2
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 100 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 120981915
+
+Total time: 7.822 seconds.
+
+real	0m8.118s
+user	3m42.749s
+sys	0m0.615s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 200 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 195030987
+
+Total time: 15.673 seconds.
+
+real	0m15.969s
+user	7m25.219s
+sys	0m0.457s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 400 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 311967170
+
+Total time: 30.568 seconds.
+
+real	0m30.871s
+user	14m23.536s
+sys	0m0.600s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 800 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 496481509
+
+Total time: 59.918 seconds.
+
+real	1m0.215s
+user	28m28.429s
+sys	0m0.803s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 1600 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 791896125
+
+Total time: 118.453 seconds.
+
+real	1m58.749s
+user	56m15.394s
+sys	0m1.161s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 3200 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 1281675945
+
+Total time: 233.774 seconds.
+
+real	3m54.072s
+user	111m31.025s
+sys	0m1.453s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 6400 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: -2140660055
+
+Total time: 470.195 seconds.
+
+real	7m50.493s
+user	221m59.291s
+sys	0m3.036s
+Gone thy killing the tests
+***STOP********
+
+Experiment 4
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 20 -m 20 -k 500 -x
+
+rows: 20, cols : 20
+the number of threads is greater than the number of cols
+ Quitting!
+
+real	0m0.010s
+user	0m0.007s
+sys	0m0.000s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 40 -m 40 -k 500 -x
+
+rows: 40, cols : 40
+number of alive cells processed: 54061
+
+Total time: 0.036 seconds.
+
+real	0m0.046s
+user	0m0.191s
+sys	0m0.062s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 80 -m 80 -k 500 -x
+
+rows: 80, cols : 80
+number of alive cells processed: 211602
+
+Total time: 0.095 seconds.
+
+real	0m0.105s
+user	0m0.733s
+sys	0m0.071s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 160 -m 160 -k 500 -x
+
+rows: 160, cols : 160
+number of alive cells processed: 890896
+
+Total time: 0.260 seconds.
+
+real	0m0.272s
+user	0m3.018s
+sys	0m0.058s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 320 -m 320 -k 500 -x
+
+rows: 320, cols : 320
+number of alive cells processed: 4039258
+
+Total time: 0.532 seconds.
+
+real	0m0.546s
+user	0m13.775s
+sys	0m0.052s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 640 -m 640 -k 500 -x
+
+rows: 640, cols : 640
+number of alive cells processed: 16150077
+
+Total time: 1.784 seconds.
+
+real	0m1.808s
+user	0m49.179s
+sys	0m0.056s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 1280 -m 1280 -k 500 -x
+
+rows: 1280, cols : 1280
+number of alive cells processed: 65060538
+
+Total time: 6.826 seconds.
+
+real	0m6.890s
+user	3m13.034s
+sys	0m0.290s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 2560 -m 2560 -k 500 -x
+
+rows: 2560, cols : 2560
+number of alive cells processed: 263581294
+
+Total time: 27.382 seconds.
+
+real	0m27.601s
+user	12m58.500s
+sys	0m0.952s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 5120 -m 5120 -k 500 -x
+
+rows: 5120, cols : 5120
+number of alive cells processed: 1055323169
+
+Total time: 122.141 seconds.
+
+real	2m2.984s
+user	54m52.921s
+sys	0m2.236s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 10240 -m 10240 -k 500 -x
+
+rows: 10240, cols : 10240
+number of alive cells processed: -75241452 \\overflow going on
+
+Total time: 470.755 seconds.
+
+real	7m54.099s
+user	209m54.249s
+sys	0m8.089s
+Gone thy killing the tests
+***STOP********

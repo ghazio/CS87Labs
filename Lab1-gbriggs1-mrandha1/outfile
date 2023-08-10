@@ -1,0 +1,2080 @@
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.019 seconds.
+
+real	0m0.036s
+user	0m0.048s
+sys	0m0.005s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.047 seconds.
+
+real	0m0.080s
+user	0m0.120s
+sys	0m0.004s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.050 seconds.
+
+real	0m0.062s
+user	0m0.101s
+sys	0m0.008s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.067 seconds.
+
+real	0m0.090s
+user	0m0.146s
+sys	0m0.008s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.068 seconds.
+
+real	0m0.080s
+user	0m0.133s
+sys	0m0.012s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.012 seconds.
+
+real	0m0.023s
+user	0m0.047s
+sys	0m0.004s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.019 seconds.
+
+real	0m0.029s
+user	0m0.078s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.030 seconds.
+
+real	0m0.041s
+user	0m0.116s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.052 seconds.
+
+real	0m0.078s
+user	0m0.218s
+sys	0m0.000s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.044 seconds.
+
+real	0m0.055s
+user	0m0.168s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.011 seconds.
+
+real	0m0.032s
+user	0m0.101s
+sys	0m0.000s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.014 seconds.
+
+real	0m0.026s
+user	0m0.117s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.018 seconds.
+
+real	0m0.030s
+user	0m0.149s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.024 seconds.
+
+real	0m0.036s
+user	0m0.181s
+sys	0m0.004s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.028 seconds.
+
+real	0m0.040s
+user	0m0.220s
+sys	0m0.008s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.017 seconds.
+
+real	0m0.047s
+user	0m0.109s
+sys	0m0.027s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.016 seconds.
+
+real	0m0.032s
+user	0m0.139s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.023 seconds.
+
+real	0m0.037s
+user	0m0.187s
+sys	0m0.004s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.032 seconds.
+
+real	0m0.045s
+user	0m0.240s
+sys	0m0.000s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.036 seconds.
+
+real	0m0.050s
+user	0m0.289s
+sys	0m0.005s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.009 seconds.
+
+real	0m0.022s
+user	0m0.068s
+sys	0m0.000s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.014 seconds.
+
+real	0m0.027s
+user	0m0.120s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.021 seconds.
+
+real	0m0.034s
+user	0m0.164s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.027 seconds.
+
+real	0m0.040s
+user	0m0.188s
+sys	0m0.026s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.066 seconds.
+
+real	0m0.098s
+user	0m0.527s
+sys	0m0.012s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.089 seconds.
+
+real	0m0.124s
+user	0m0.195s
+sys	0m0.016s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.121 seconds.
+
+real	0m0.147s
+user	0m0.265s
+sys	0m0.000s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.173 seconds.
+
+real	0m0.199s
+user	0m0.357s
+sys	0m0.012s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.221 seconds.
+
+real	0m0.247s
+user	0m0.454s
+sys	0m0.012s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.273 seconds.
+
+real	0m0.298s
+user	0m0.568s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.042 seconds.
+
+real	0m0.067s
+user	0m0.179s
+sys	0m0.000s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.070 seconds.
+
+real	0m0.118s
+user	0m0.309s
+sys	0m0.004s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.097 seconds.
+
+real	0m0.123s
+user	0m0.399s
+sys	0m0.000s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.124 seconds.
+
+real	0m0.150s
+user	0m0.501s
+sys	0m0.004s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.152 seconds.
+
+real	0m0.178s
+user	0m0.607s
+sys	0m0.004s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.026 seconds.
+
+real	0m0.052s
+user	0m0.230s
+sys	0m0.000s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.048 seconds.
+
+real	0m0.074s
+user	0m0.391s
+sys	0m0.008s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.069 seconds.
+
+real	0m0.095s
+user	0m0.568s
+sys	0m0.000s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.090 seconds.
+
+real	0m0.116s
+user	0m0.717s
+sys	0m0.016s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.111 seconds.
+
+real	0m0.138s
+user	0m0.898s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.030 seconds.
+
+real	0m0.055s
+user	0m0.206s
+sys	0m0.008s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.049 seconds.
+
+real	0m0.075s
+user	0m0.382s
+sys	0m0.008s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.071 seconds.
+
+real	0m0.097s
+user	0m0.538s
+sys	0m0.027s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.090 seconds.
+
+real	0m0.116s
+user	0m0.704s
+sys	0m0.016s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.109 seconds.
+
+real	0m0.135s
+user	0m0.863s
+sys	0m0.012s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.027 seconds.
+
+real	0m0.053s
+user	0m0.227s
+sys	0m0.004s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.047 seconds.
+
+real	0m0.073s
+user	0m0.391s
+sys	0m0.004s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.069 seconds.
+
+real	0m0.097s
+user	0m0.528s
+sys	0m0.029s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.088 seconds.
+
+real	0m0.114s
+user	0m0.707s
+sys	0m0.012s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.110 seconds.
+
+real	0m0.136s
+user	0m0.869s
+sys	0m0.008s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.015 seconds.
+
+real	0m0.032s
+user	0m0.038s
+sys	0m0.004s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.026 seconds.
+
+real	0m0.036s
+user	0m0.057s
+sys	0m0.004s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.038 seconds.
+
+real	0m0.048s
+user	0m0.083s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.048 seconds.
+
+real	0m0.059s
+user	0m0.104s
+sys	0m0.000s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.059 seconds.
+
+real	0m0.069s
+user	0m0.126s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.010 seconds.
+
+real	0m0.020s
+user	0m0.043s
+sys	0m0.000s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.018 seconds.
+
+real	0m0.028s
+user	0m0.064s
+sys	0m0.007s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.027 seconds.
+
+real	0m0.036s
+user	0m0.099s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.035 seconds.
+
+real	0m0.045s
+user	0m0.124s
+sys	0m0.004s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.031 seconds.
+
+real	0m0.041s
+user	0m0.131s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.005 seconds.
+
+real	0m0.015s
+user	0m0.048s
+sys	0m0.000s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.010 seconds.
+
+real	0m0.020s
+user	0m0.077s
+sys	0m0.005s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.014 seconds.
+
+real	0m0.025s
+user	0m0.114s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.019 seconds.
+
+real	0m0.029s
+user	0m0.146s
+sys	0m0.000s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.023 seconds.
+
+real	0m0.033s
+user	0m0.178s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.005 seconds.
+
+real	0m0.016s
+user	0m0.045s
+sys	0m0.004s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.010 seconds.
+
+real	0m0.020s
+user	0m0.088s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.014 seconds.
+
+real	0m0.024s
+user	0m0.116s
+sys	0m0.003s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.034 seconds.
+
+real	0m0.066s
+user	0m0.296s
+sys	0m0.014s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.030 seconds.
+
+real	0m0.060s
+user	0m0.270s
+sys	0m0.008s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.008 seconds.
+
+real	0m0.032s
+user	0m0.105s
+sys	0m0.000s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.008 seconds.
+
+real	0m0.020s
+user	0m0.094s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.011 seconds.
+
+real	0m0.021s
+user	0m0.114s
+sys	0m0.007s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.015 seconds.
+
+real	0m0.024s
+user	0m0.144s
+sys	0m0.010s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.024 seconds.
+
+real	0m0.045s
+user	0m0.228s
+sys	0m0.033s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.060 seconds.
+
+real	0m0.105s
+user	0m0.159s
+sys	0m0.004s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.104 seconds.
+
+real	0m0.127s
+user	0m0.220s
+sys	0m0.008s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.148 seconds.
+
+real	0m0.185s
+user	0m0.327s
+sys	0m0.004s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.191 seconds.
+
+real	0m0.214s
+user	0m0.398s
+sys	0m0.004s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.234 seconds.
+
+real	0m0.257s
+user	0m0.486s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.030 seconds.
+
+real	0m0.056s
+user	0m0.142s
+sys	0m0.004s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.054 seconds.
+
+real	0m0.077s
+user	0m0.231s
+sys	0m0.004s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.079 seconds.
+
+real	0m0.115s
+user	0m0.334s
+sys	0m0.008s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.100 seconds.
+
+real	0m0.122s
+user	0m0.407s
+sys	0m0.008s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.123 seconds.
+
+real	0m0.158s
+user	0m0.513s
+sys	0m0.004s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.023 seconds.
+
+real	0m0.082s
+user	0m0.228s
+sys	0m0.000s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.042 seconds.
+
+real	0m0.097s
+user	0m0.351s
+sys	0m0.011s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.061 seconds.
+
+real	0m0.113s
+user	0m0.482s
+sys	0m0.012s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.076 seconds.
+
+real	0m0.098s
+user	0m0.557s
+sys	0m0.000s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.092 seconds.
+
+real	0m0.114s
+user	0m0.687s
+sys	0m0.004s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.024 seconds.
+
+real	0m0.091s
+user	0m0.240s
+sys	0m0.031s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.038 seconds.
+
+real	0m0.086s
+user	0m0.359s
+sys	0m0.008s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.053 seconds.
+
+real	0m0.075s
+user	0m0.458s
+sys	0m0.012s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.072 seconds.
+
+real	0m0.095s
+user	0m0.598s
+sys	0m0.008s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.083 seconds.
+
+real	0m0.138s
+user	0m0.750s
+sys	0m0.016s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.017 seconds.
+
+real	0m0.039s
+user	0m0.187s
+sys	0m0.008s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.032 seconds.
+
+real	0m0.079s
+user	0m0.379s
+sys	0m0.001s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.044 seconds.
+
+real	0m0.066s
+user	0m0.449s
+sys	0m0.021s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.056 seconds.
+
+real	0m0.079s
+user	0m0.589s
+sys	0m0.020s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.069 seconds.
+
+real	0m0.092s
+user	0m0.738s
+sys	0m0.004s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.015 seconds.
+
+real	0m0.045s
+user	0m0.031s
+sys	0m0.014s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.026 seconds.
+
+real	0m0.036s
+user	0m0.057s
+sys	0m0.004s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.039 seconds.
+
+real	0m0.048s
+user	0m0.084s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.049 seconds.
+
+real	0m0.059s
+user	0m0.101s
+sys	0m0.004s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.060 seconds.
+
+real	0m0.070s
+user	0m0.127s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.010 seconds.
+
+real	0m0.020s
+user	0m0.037s
+sys	0m0.007s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.019 seconds.
+
+real	0m0.038s
+user	0m0.093s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.030 seconds.
+
+real	0m0.041s
+user	0m0.113s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.045 seconds.
+
+real	0m0.065s
+user	0m0.175s
+sys	0m0.004s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.042 seconds.
+
+real	0m0.053s
+user	0m0.154s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.005 seconds.
+
+real	0m0.015s
+user	0m0.044s
+sys	0m0.005s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.014 seconds.
+
+real	0m0.024s
+user	0m0.077s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.025 seconds.
+
+real	0m0.057s
+user	0m0.197s
+sys	0m0.012s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.019 seconds.
+
+real	0m0.028s
+user	0m0.140s
+sys	0m0.000s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.024 seconds.
+
+real	0m0.034s
+user	0m0.180s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.008 seconds.
+
+real	0m0.026s
+user	0m0.081s
+sys	0m0.003s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.012 seconds.
+
+real	0m0.022s
+user	0m0.101s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.014 seconds.
+
+real	0m0.025s
+user	0m0.120s
+sys	0m0.003s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.019 seconds.
+
+real	0m0.028s
+user	0m0.151s
+sys	0m0.005s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.023 seconds.
+
+real	0m0.033s
+user	0m0.188s
+sys	0m0.005s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.008 seconds.
+
+real	0m0.027s
+user	0m0.076s
+sys	0m0.010s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.008 seconds.
+
+real	0m0.019s
+user	0m0.084s
+sys	0m0.004s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.012 seconds.
+
+real	0m0.022s
+user	0m0.118s
+sys	0m0.003s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.016 seconds.
+
+real	0m0.025s
+user	0m0.157s
+sys	0m0.000s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.019 seconds.
+
+real	0m0.029s
+user	0m0.176s
+sys	0m0.018s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.060 seconds.
+
+real	0m0.082s
+user	0m0.141s
+sys	0m0.000s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.104 seconds.
+
+real	0m0.127s
+user	0m0.221s
+sys	0m0.008s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.149 seconds.
+
+real	0m0.170s
+user	0m0.313s
+sys	0m0.004s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.191 seconds.
+
+real	0m0.213s
+user	0m0.401s
+sys	0m0.000s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.232 seconds.
+
+real	0m0.255s
+user	0m0.480s
+sys	0m0.004s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.040 seconds.
+
+real	0m0.063s
+user	0m0.149s
+sys	0m0.011s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.054 seconds.
+
+real	0m0.097s
+user	0m0.253s
+sys	0m0.004s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.086 seconds.
+
+real	0m0.108s
+user	0m0.331s
+sys	0m0.012s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.100 seconds.
+
+real	0m0.136s
+user	0m0.423s
+sys	0m0.008s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.121 seconds.
+
+real	0m0.157s
+user	0m0.517s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.022 seconds.
+
+real	0m0.044s
+user	0m0.173s
+sys	0m0.004s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.040 seconds.
+
+real	0m0.062s
+user	0m0.301s
+sys	0m0.008s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.057 seconds.
+
+real	0m0.080s
+user	0m0.442s
+sys	0m0.000s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.074 seconds.
+
+real	0m0.097s
+user	0m0.546s
+sys	0m0.008s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.092 seconds.
+
+real	0m0.115s
+user	0m0.672s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.022 seconds.
+
+real	0m0.044s
+user	0m0.196s
+sys	0m0.000s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.039 seconds.
+
+real	0m0.061s
+user	0m0.314s
+sys	0m0.020s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.052 seconds.
+
+real	0m0.075s
+user	0m0.443s
+sys	0m0.016s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.070 seconds.
+
+real	0m0.131s
+user	0m0.651s
+sys	0m0.005s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.083 seconds.
+
+real	0m0.106s
+user	0m0.730s
+sys	0m0.008s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.017 seconds.
+
+real	0m0.039s
+user	0m0.175s
+sys	0m0.023s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.031 seconds.
+
+real	0m0.054s
+user	0m0.343s
+sys	0m0.004s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.044 seconds.
+
+real	0m0.066s
+user	0m0.468s
+sys	0m0.008s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.057 seconds.
+
+real	0m0.082s
+user	0m0.599s
+sys	0m0.016s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.069 seconds.
+
+real	0m0.092s
+user	0m0.710s
+sys	0m0.024s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.022 seconds.
+
+real	0m0.036s
+user	0m0.047s
+sys	0m0.008s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.027 seconds.
+
+real	0m0.037s
+user	0m0.057s
+sys	0m0.004s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.038 seconds.
+
+real	0m0.047s
+user	0m0.084s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.049 seconds.
+
+real	0m0.059s
+user	0m0.106s
+sys	0m0.000s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.060 seconds.
+
+real	0m0.070s
+user	0m0.128s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.010 seconds.
+
+real	0m0.020s
+user	0m0.041s
+sys	0m0.004s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.019 seconds.
+
+real	0m0.028s
+user	0m0.073s
+sys	0m0.000s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.027 seconds.
+
+real	0m0.037s
+user	0m0.099s
+sys	0m0.004s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.036 seconds.
+
+real	0m0.046s
+user	0m0.131s
+sys	0m0.000s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.039 seconds.
+
+real	0m0.048s
+user	0m0.145s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.005 seconds.
+
+real	0m0.015s
+user	0m0.047s
+sys	0m0.000s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.011 seconds.
+
+real	0m0.021s
+user	0m0.074s
+sys	0m0.009s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.016 seconds.
+
+real	0m0.026s
+user	0m0.109s
+sys	0m0.007s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.021 seconds.
+
+real	0m0.031s
+user	0m0.158s
+sys	0m0.000s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.025 seconds.
+
+real	0m0.035s
+user	0m0.179s
+sys	0m0.004s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.005 seconds.
+
+real	0m0.015s
+user	0m0.052s
+sys	0m0.000s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.010 seconds.
+
+real	0m0.020s
+user	0m0.081s
+sys	0m0.004s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.014 seconds.
+
+real	0m0.024s
+user	0m0.118s
+sys	0m0.000s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.019 seconds.
+
+real	0m0.028s
+user	0m0.130s
+sys	0m0.019s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.023 seconds.
+
+real	0m0.033s
+user	0m0.184s
+sys	0m0.003s
+***STOP********
+***START*******
+
+run 1:
+rows: 512, cols : 512
+number of alive cells processed: 72147
+
+Total time: 0.005 seconds.
+
+real	0m0.015s
+user	0m0.053s
+sys	0m0.000s
+
+run 2:
+rows: 512, cols : 512
+number of alive cells processed: 138551
+
+Total time: 0.015 seconds.
+
+real	0m0.040s
+user	0m0.148s
+sys	0m0.017s
+
+run 3:
+rows: 512, cols : 512
+number of alive cells processed: 204164
+
+Total time: 0.013 seconds.
+
+real	0m0.023s
+user	0m0.112s
+sys	0m0.014s
+
+run 4:
+rows: 512, cols : 512
+number of alive cells processed: 266237
+
+Total time: 0.017 seconds.
+
+real	0m0.027s
+user	0m0.147s
+sys	0m0.008s
+
+run 5:
+rows: 512, cols : 512
+number of alive cells processed: 327075
+
+Total time: 0.020 seconds.
+
+real	0m0.029s
+user	0m0.191s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.060 seconds.
+
+real	0m0.082s
+user	0m0.136s
+sys	0m0.004s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.105 seconds.
+
+real	0m0.128s
+user	0m0.216s
+sys	0m0.016s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.151 seconds.
+
+real	0m0.173s
+user	0m0.318s
+sys	0m0.004s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.192 seconds.
+
+real	0m0.215s
+user	0m0.401s
+sys	0m0.004s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.235 seconds.
+
+real	0m0.258s
+user	0m0.490s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.031 seconds.
+
+real	0m0.055s
+user	0m0.140s
+sys	0m0.004s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.065 seconds.
+
+real	0m0.087s
+user	0m0.250s
+sys	0m0.008s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.076 seconds.
+
+real	0m0.099s
+user	0m0.324s
+sys	0m0.000s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.099 seconds.
+
+real	0m0.122s
+user	0m0.410s
+sys	0m0.004s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.122 seconds.
+
+real	0m0.144s
+user	0m0.503s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.025 seconds.
+
+real	0m0.048s
+user	0m0.189s
+sys	0m0.004s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.040 seconds.
+
+real	0m0.062s
+user	0m0.311s
+sys	0m0.004s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.057 seconds.
+
+real	0m0.080s
+user	0m0.438s
+sys	0m0.004s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.076 seconds.
+
+real	0m0.098s
+user	0m0.568s
+sys	0m0.004s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.091 seconds.
+
+real	0m0.114s
+user	0m0.679s
+sys	0m0.004s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.026 seconds.
+
+real	0m0.091s
+user	0m0.282s
+sys	0m0.012s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.039 seconds.
+
+real	0m0.062s
+user	0m0.319s
+sys	0m0.004s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.053 seconds.
+
+real	0m0.076s
+user	0m0.460s
+sys	0m0.008s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.068 seconds.
+
+real	0m0.091s
+user	0m0.590s
+sys	0m0.004s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.086 seconds.
+
+real	0m0.110s
+user	0m0.729s
+sys	0m0.000s
+***STOP********
+***START*******
+
+run 1:
+rows: 1024, cols : 1024
+number of alive cells processed: 287584
+
+Total time: 0.017 seconds.
+
+real	0m0.040s
+user	0m0.151s
+sys	0m0.049s
+
+run 2:
+rows: 1024, cols : 1024
+number of alive cells processed: 553872
+
+Total time: 0.031 seconds.
+
+real	0m0.053s
+user	0m0.331s
+sys	0m0.004s
+
+run 3:
+rows: 1024, cols : 1024
+number of alive cells processed: 817711
+
+Total time: 0.043 seconds.
+
+real	0m0.067s
+user	0m0.470s
+sys	0m0.004s
+
+run 4:
+rows: 1024, cols : 1024
+number of alive cells processed: 1068724
+
+Total time: 0.058 seconds.
+
+real	0m0.081s
+user	0m0.588s
+sys	0m0.020s
+
+run 5:
+rows: 1024, cols : 1024
+number of alive cells processed: 1312401
+
+Total time: 0.069 seconds.
+
+real	0m0.092s
+user	0m0.742s
+sys	0m0.004s
+***STOP********

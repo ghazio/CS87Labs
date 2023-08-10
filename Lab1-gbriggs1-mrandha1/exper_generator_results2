@@ -1,0 +1,92 @@
+Experiment 2
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 100 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 120981915
+
+Total time: 15.846 seconds.
+
+real	0m16.020s
+user	2m2.472s
+sys	0m0.036s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 200 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 195030987
+
+Total time: 30.857 seconds.
+
+real	0m31.031s
+user	3m58.306s
+sys	0m0.056s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 400 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 311967170
+
+Total time: 60.423 seconds.
+
+real	1m0.597s
+user	7m46.086s
+sys	0m0.128s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 800 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 496481509
+
+Total time: 118.782 seconds.
+
+real	1m58.956s
+user	15m15.110s
+sys	0m0.228s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 1600 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 791896125
+
+Total time: 234.151 seconds.
+
+real	3m54.325s
+user	30m3.541s
+sys	0m0.520s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 3200 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 1281675945
+
+Total time: 463.641 seconds.
+
+real	7m43.815s
+user	59m26.533s
+sys	0m0.883s
+Gone thy killing the tests
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 30 -n 3000 -m 3000 -k 6400 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: -2140660055
+
+Total time: 918.885 seconds.
+
+real	15m19.058s
+user	117m56.215s
+sys	0m1.518s
+Gone thy killing the tests
+***STOP********

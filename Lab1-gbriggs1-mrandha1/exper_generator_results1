@@ -1,0 +1,118 @@
+Experiment 1
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 4 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 86.677 seconds.
+
+real	1m26.931s
+user	5m44.233s
+sys	0m0.060s
+I have killed all the children and hid their bodies :P 
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 8 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 73.746 seconds.
+
+real	1m13.939s
+user	9m44.098s
+sys	0m0.108s
+I have killed all the children and hid their bodies :P 
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 16 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 75.536 seconds.
+
+real	1m15.719s
+user	9m37.437s
+sys	0m0.092s
+I have killed all the children and hid their bodies :P 
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 32 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 74.949 seconds.
+
+real	1m15.122s
+user	9m39.214s
+sys	0m0.200s
+I have killed all the children and hid their bodies :P 
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 64 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 74.852 seconds.
+
+real	1m15.083s
+user	9m43.129s
+sys	0m0.356s
+I have killed all the children and hid their bodies :P 
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 128 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 75.642 seconds.
+
+real	1m15.816s
+user	9m51.706s
+sys	0m0.448s
+I have killed all the children and hid their bodies :P 
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 256 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 77.166 seconds.
+
+real	1m17.339s
+user	10m8.823s
+sys	0m0.760s
+I have killed all the children and hid their bodies :P 
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 512 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 80.723 seconds.
+
+real	1m20.898s
+user	10m39.248s
+sys	0m1.484s
+I have killed all the children and hid their bodies :P 
+***STOP********
+***START*******
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/gol -t 1024 -n 3000 -m 3000 -k 500 -x
+
+rows: 3000, cols : 3000
+number of alive cells processed: 362494793
+
+Total time: 86.955 seconds.
+
+real	1m27.128s
+user	11m28.076s
+sys	0m3.059s
+I have killed all the children and hid their bodies :P 
+***STOP********

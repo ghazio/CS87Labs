@@ -1,0 +1,12 @@
+
+*** These modified files were found in JOE when it aborted on Sun Sep 12 21:13:12 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/mrandha1/cs87/Lab1-gbriggs1-mrandha1/run.sh
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jstarrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jstarrc
